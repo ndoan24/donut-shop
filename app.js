@@ -56,7 +56,7 @@ console.log(withDonut);
 
 // 12. Reverse the order of the donuts in the array.
 
-console.log(donuts.reverse();
+// console.log(donuts.reverse();
 
 //13. **Create a function called getdonuts() that will display all the donuts in your array and display on your page.
 
